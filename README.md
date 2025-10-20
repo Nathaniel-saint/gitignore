@@ -14,20 +14,3 @@ Hi there, I'm Nathaniel Addae Marfo, a BSc. Business Information Technology stud
 
 😄 Pronouns: He/him
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
