@@ -6,7 +6,7 @@ Hi there, I'm Nathaniel Addae Marfo, a BSc. Business Information Technology stud
 
 🔭 Currently working on a Java project.
 
-🌱 Learning Java and exploring web tachnologies.
+🌱 Learning Java and exploring web technologies.
 
 👯 Open to collaborating on Java and based projects
 
