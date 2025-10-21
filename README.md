@@ -10,7 +10,7 @@ Hi there, I'm Nathaniel Addae Marfo, a BSc. Business Information Technology stud
 
 👯 Open to collaborating on Java and based projects
 
-📫 Reach me at: naddaemarfo@palm.edu.gh
+📫 Reach me at: nmarfo@palm.edu.gh
 
 😄 Pronouns: He/him
 
